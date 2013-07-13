@@ -1,0 +1,6 @@
+# ignore python compiled stuff
+*.pyc
+*.pyo
+
+# ignore stupid backup files
+*~
